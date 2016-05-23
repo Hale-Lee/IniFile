@@ -7,7 +7,7 @@
 //	Version: 	1.0
 //	Date: 		2012-01-09
 //	
-//	Purpose:	IniÎÄ¼þµÄ±ê×¼ÊäÈëÊä³öÀà£¬ÓÃÀ´¶ÁÈëIniÎÄ¼þºÍÐ´ÈëIniÎÄ¼þ¡£
+//	Purpose:	Iniæ–‡ä»¶çš„æ ‡å‡†è¾“å…¥è¾“å‡ºç±»ï¼Œç”¨æ¥è¯»å…¥Iniæ–‡ä»¶å’Œå†™å…¥Iniæ–‡ä»¶ã€‚
 //	
 /////////////////////////////////////////////////////////////////////////////////////////
 #if !defined(AFX_INIFILE_H__99B07947_FEDA_4970_ACBA_B2B6578CD9C8__INCLUDED_)
@@ -18,7 +18,7 @@
 #endif // _MSC_VER > 1000
 
 #include <afxtempl.h>
-
+ 
 
 
 class CIniFile : public CObject  
